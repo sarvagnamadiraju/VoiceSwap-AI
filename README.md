@@ -2,7 +2,7 @@
 
 > **Ever wondered what your favorite song would sound like in your own voice?**
 
-VoiceSwap AI is a full-stack Generative AI application that transforms any song into the user's voice. Simply upload a song, record your voice or upload a voice sample, and let AI recreate the track as if you were the one singing it.
+VoiceSwap AI is a full-stack Generative AI application that lets users experience how any song would sound in their own voice. Upload a song, provide your voice, and let AI recreate the performance using AI-powered voice conversion.
 
 ---
 
